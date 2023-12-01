@@ -1,7 +1,7 @@
 # Delivery API-REST 
 
 ## Tecnologias utilizadas:
-[![My Skills](https://skillicons.dev/icons?i=react,tailwindcss)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,tailwindcss,javascript)](https://skillicons.dev)
 
 ![delivery](https://i.postimg.cc/wvcJBQvF/imagem.png)
 
